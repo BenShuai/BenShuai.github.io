@@ -16,7 +16,7 @@
 
 <br/>
 
-计算公式：$X_t = \frac{X - mean}{std}$
+计算公式：$X_t = \frac{X - mean} {std}$
 
 <br/>
 
